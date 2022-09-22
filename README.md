@@ -17,5 +17,4 @@ import numpy as np
 4. Crear una copia de la imagen original pero en escala de *grises*.
 5. Aplicar a la imagen en escala de grises un **filtro bilateral** con *diámetro de 39*.
 6. Aplicar a la imagen en escala de grises un **filtro de mediana** con *kernel de 27*.
-7. Aplicar a la imagen en escala de grises un **filtro de caja** con una profundidad de −1,
-normalizado y un *tamaño de 30*.
+7. Aplicar a la imagen en escala de grises un **filtro de caja** con una profundidad de −1, normalizado y un *tamaño de 30*.
